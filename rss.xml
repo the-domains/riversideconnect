@@ -4,7 +4,7 @@
         <description><![CDATA[RiversideConnect]]></description>
         <link>https://thegrid.ai/riversideconnect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 17:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 19:32:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/riversideconnect/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/riversideconnect/346f42fe-a904-42a9-9dd0-7f6ed8b19886/index.html</link>
             <guid isPermaLink="false">346f42fe-a904-42a9-9dd0-7f6ed8b19886</guid>
             <pubDate>Tue, 07 Jun 2016 16:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Empty Throne 06.05.2016]]></title>
+            <description><![CDATA[<article><h1>The Empty Throne 06.05.2016</h1><p>Ezra Strickhouser preaches at Riverside Community Church on Judges 14 & 15 in The Empty Throne Series in a sermon called "Disappointing on So Many Levels".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1abf283f6a3a7d149b31e893321c1533119c05f.jpg"></article>]]></description>
+            <link>https://youtu.be/MkMZfjjvD2k</link>
+            <guid isPermaLink="false">ad159953-870b-43dc-8d4e-154204ddba18</guid>
+            <pubDate>Tue, 07 Jun 2016 19:32:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.riversideconnect.com/sermons/sermon/2016-06-05/disappointing-on-so-many-levels</link>
             <guid isPermaLink="false">980291d7-df3f-4325-8c04-3c0d05036cef</guid>
             <pubDate>Tue, 07 Jun 2016 16:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riverside Community Church: Horsham, PA]]></title>
-            <description><![CDATA[<article><h1>Riverside Community Church: Horsham, PA</h1><p>This week, we continue with the third of the blog post series from the short book called Listen Up from Christopher Ash. The last post looked at how God knows better than us and how we should humbly look to see what scripture reveals about us.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e993dd4af624d0228e9943700162bb9034457a54.jpg"></article>]]></description>
-            <link>http://www.riversideconnect.com/about/riverside-community-church-blog/post/listen-up-seven-ingredients-for-healthy-sermon-listening</link>
-            <guid isPermaLink="false">927dafa1-e843-4707-8a21-3f46eac653ab</guid>
-            <pubDate>Tue, 07 Jun 2016 16:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
