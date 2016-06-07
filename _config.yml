@@ -1,0 +1,14 @@
+layout_spectrum: 0.8408285295590758
+typography_spectrum: 0.10407155728898942
+color:
+  brandStrength: 0.5222208711784333
+  lightness: 0.5974802933633327
+  saturation: 0.5844626424368471
+  rhythmicContrast: 0.931256010895595
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: RiversideConnect
